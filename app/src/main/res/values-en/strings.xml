@@ -1,0 +1,7 @@
+<resources>
+    <!-- Application messages in English by camila olivi and karin gallegos -->
+    <string name="app_name">Test2OliviGallegos</string>
+    <string name="welcome_message">Welcome to the Application</string>
+    <string name="navigate_button">Go to the second screen</string>
+    <string name="change_fragment_button">Change Fragment</string>
+</resources>
